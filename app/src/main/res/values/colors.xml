@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Save Button-->
+    <color name="colorPrimary">#b00431</color>
+    <!--    Checkbox, welcome, navbar-->
+    <color name="colorPrimaryDark">#08857a</color>
+    <!--    Add Task Button-->
+    <color name="colorAccent">#02027a</color>
+    <!--    Text Button-->
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
